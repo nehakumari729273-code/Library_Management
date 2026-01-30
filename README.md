@@ -65,5 +65,5 @@ Fine amount (if applicable)
 
 Author
 ======
-Neha
+Neha Kumari
 Computer Science Student
